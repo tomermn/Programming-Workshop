@@ -1,0 +1,3 @@
+/mnt/c/Users/Dell/Documents/אקדמיה/C_C++_67320/ex5-tomerm1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Dell/Documents/אקדמיה/C_C++_67320/ex5-tomerm1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Dell/Documents/אקדמיה/C_C++_67320/ex5-tomerm1/cmake-build-debug/CMakeFiles/ex5_tomerm1.dir
